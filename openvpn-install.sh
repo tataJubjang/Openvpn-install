@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/openvpn-install
+# https://github.com/tataJubjang/script11
 #
 # ScriptKing  2019 Nyr. Released under the MIT License.
 
