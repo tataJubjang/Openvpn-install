@@ -453,3 +453,4 @@ verb 3" > /etc/openvpn/client-common.txt
 	echo "คอนฟิคมึงอ่ะ➡:" ~/"$CLIENT.ovpn"
 	echo "คนทำจังไรครับ 😅😅"
 fi
+?raw=true
